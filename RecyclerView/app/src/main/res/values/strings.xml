@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    
+    <string-array name="aplikasi_pemrograman">
+        <item>Visual Studio Code</item>
+        <item>DevC</item>
+        <item>Intellij Idea</item>
+        <item>Visual Basic</item>
+        <item>Notepad++</item>
+        <item>Sublime Text</item>
+        <item>Android Studio</item>
+        <item>Code Block</item>
+        <item>Bluefish</item>
+        <item>Brackets</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>
+            Bahasa pemrograman: JavaScript, HTML, Java, PHP, Python
+        </item>
+        <item>
+            Bahasa pemrograman: C, C++, Embarcadero Delphi, Objek Pascal
+        </item>
+        <item>
+            Bahasa pemrograman: Java dan Kotlin
+        </item>
+        <item>
+            Bahasa pemrograman: Visual Basic
+        </item>
+        <item>
+            Bahasa pemrograman: C++
+        </item>
+        <item>
+            Bahasa pemrograman: Python dan C++
+        </item>
+        <item>
+            Bahasa pemrograman: Java dan Kotlin
+        </item>
+        <item>
+            Bahasa pemrograman: C, C++, dan WxWidgets
+        </item>
+        <item>
+            Bahasa pemrograman: HTML, XHTML, CSS, XML, PHP, C, C ++, JavaScript, Java
+        </item>
+        <item>
+            Bahasa pemrograman:  HTML, JavaScript, Cascading Style Sheets
+        </item>
+    </string-array>
+</resources>
